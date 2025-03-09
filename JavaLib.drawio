@@ -138,7 +138,7 @@
         <mxCell id="IluqJxnMN8UQDmzil1uz-45" value="+deleteUser(userID:String):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontSize=14;fontFamily=Mali;" parent="IluqJxnMN8UQDmzil1uz-41" vertex="1">
           <mxGeometry y="122" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-RELGFcGICETQjLelU8a-33" value="+loginUser(user:User):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontSize=14;fontFamily=Mali;" vertex="1" parent="IluqJxnMN8UQDmzil1uz-41">
+        <mxCell id="-RELGFcGICETQjLelU8a-33" value="+validateUser(userID):void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontSize=14;fontFamily=Mali;" vertex="1" parent="IluqJxnMN8UQDmzil1uz-41">
           <mxGeometry y="152" width="280" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IluqJxnMN8UQDmzil1uz-46" value="+printInfo():String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontSize=14;fontFamily=Mali;fontStyle=1" parent="IluqJxnMN8UQDmzil1uz-41" vertex="1">
